@@ -1,5 +1,7 @@
 # a8 - _d3_ Visualization
 
+Visualization Link: https://shreyasabharwal.github.io/Python-Programming-for-Data-Science/a8%20D3%20Visualization/
+
 For this assignment we decided to uptake a dataset from the World Bank’s global population estimates and projections data. They are disaggregated by gender.
 
 The results are visualized using an interactive area chart that illustrates how the population of people in 174 world economies has changed from 2009-2018.
